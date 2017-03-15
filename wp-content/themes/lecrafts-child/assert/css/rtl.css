@@ -1,0 +1,8 @@
+html body {
+  direction: rtl;
+  unicode-bidi: embed; }
+  html body .post-content .post-meta-holder {
+    float: right; }
+  html body .post-content .social-share-holder {
+    left: 0;
+    right: auto; }
